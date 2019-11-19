@@ -1,6 +1,6 @@
 [submodule "dhd"]
 	path = dhd
-	url = https://github.com/mer-hybris/droid-hal-device
+	url = https://github.com/krnlyng/droid-hal-device
 [submodule "fw-api"]
 	path = fw-api
 	url = https://github.com/sonyxperiadev/vendor-qcom-opensource-wlan-fw-api
@@ -16,7 +16,7 @@
 	branch = hybris-sony-aosp-9.0.0_r37_20190620
 [submodule "hybris/hybris-boot"]
 	path = hybris/hybris-boot
-	url = https://github.com/mer-hybris/hybris-boot
+	url = https://github.com/krnlyng/hybris-boot
 [submodule "hybris/mer-kernel-check"]
 	path = hybris/mer-kernel-check
 	url = https://github.com/mer-hybris/mer-kernel-check
